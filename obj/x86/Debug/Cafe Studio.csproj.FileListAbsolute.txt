@@ -1,0 +1,4 @@
+C:\Users\Shloka\Documents\Visual Studio 2010\Projects\Cafe Studio\Cafe Studio\obj\x86\Debug\Cafe Studio.csprojResolveAssemblyReference.cache
+C:\Users\Shloka\Documents\Visual Studio 2010\Projects\Cafe Studio\Cafe Studio\obj\x86\Debug\Cafe_Studio.Form1.resources
+C:\Users\Shloka\Documents\Visual Studio 2010\Projects\Cafe Studio\Cafe Studio\obj\x86\Debug\Cafe_Studio.Properties.Resources.resources
+C:\Users\Shloka\Documents\Visual Studio 2010\Projects\Cafe Studio\Cafe Studio\obj\x86\Debug\Cafe Studio.csproj.GenerateResource.Cache
